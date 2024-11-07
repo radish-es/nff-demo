@@ -6,13 +6,13 @@ menu:
   footer_secondary:
     weight: 4
 seo:
-  page_title: Sustainability Resources
-  meta_description: At Essentia, we believe in empowering our community with knowledge. Stay informed, stay sustainable, and join the conversation shaping our energy future.
+  page_title: Latest News
+  meta_description: The latest news
   featured_image:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-simple
-    heading: Sustainability Resources
+    heading: Latest news
     body: >-
-      Dive deep into the world of sustainable energy with the latest articles, trends, and breakthroughs. At Essentia, we believe in empowering our community with knowledge. Stay informed, stay sustainable, and join the conversation shaping our energy future.
+      Check out our latest news here.
 ---
