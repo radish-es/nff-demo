@@ -13,9 +13,9 @@ seo:
   featured_image_alt: Two people sitting at a table together
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: Get in Touch with Our Energy Experts
+    heading: Get in Touch With Us
     body: >-
-      Ready to embark on a greener journey? Reach out to us, and let’s craft a sustainable future together.
+      Contact the National Farmers Foundation.
     image:
       image_url: /uploads/two-people-at-table-1.jpg
       image_alt: Two people sitting at a table together

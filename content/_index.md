@@ -5,13 +5,11 @@ menu:
   main:
     weight: 1
 seo:
-  page_title: Sustainable Analytics Software
+  page_title: National Farmers Foundation
   meta_description: >-
-    Harness the power of cutting-edge analytics with Essentia. Our intuitive
-    software deciphers complex energy patterns, enabling businesses and
-    homeowners to reduce costs and minimize environmental impact.
+    National Farmers Foundation is a charitable foundation.
   featured_image: /uploads/essentia-featured-image.jpg
-  featured_image_alt: Essentia Logo
+  featured_image_alt: NFF Logo
 content_blocks:
   - _bookshop_name: hero
     heading: Our Mission
@@ -45,8 +43,8 @@ content_blocks:
       projects create as the next generation of farm leadership builds its
       capacity and networks.
     image:
-      image_url: /uploads/business-1.jpg
-      image_alt: Trees with sunshine shining through branches
+      image_url: /uploads/farm01.jpg
+      image_alt: Farm
     button:
       enabled: true
       button_url: /services/business/
