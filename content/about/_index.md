@@ -1,96 +1,82 @@
 ---
+_schema: default
 title: About
 menu:
   main:
     weight: 3
-  footer_secondary:
-    weight: 1
 seo:
   page_title: Sustainability Company in the US
   meta_description:
-  featured_image: 
+  featured_image:
   featured_image_alt:
 content_blocks:
   - _bookshop_name: hero-two-column
-    heading: >-
-      Empowering sustainability since 2013.
+    heading: Who We Are
     body: >-
-      Essentia stands at the forefront of energy optimization, using innovative
-      technology to make energy consumption more efficient and eco-friendly. Our
-      dedicated team works relentlessly, driven by a vision of a sustainable
-      future where technology and nature harmoniously coexist.
+      The National Farmers Foundation (NFF) is a charitable organization
+      dedicated to the promotion, creation and enhancement of food systems based
+      on the principles of food sovereignty: sustainability, equity, and
+      justice. Through research, education, and projects that advance these
+      principles we aim to support food producers and provisioners, workers, and
+      rural communities in Canada.
     image:
       image_url: /uploads/trees-1.jpg
       image_alt: Trees with sunshine shining through branches
     button:
+      enabled: false
       button_url: /schedule-demo/
       button_text: Schedule A Demo
       open_in_new_tab: false
-  - _bookshop_name: media-text
-    heading: 'Discover Essentia: Champions of Sustainable Energy'
-    body: >-
-      Founded in 2013, Essentia has swiftly emerged as a leader in the
-      sustainable energy sector. Our ethos is simple, merge cutting-edge
-      technology with deep-rooted environmental values. We're more than just a
-      company; we're a collective of innovators, dreamers, and doers, steadfast
-      in our mission to revolutionize the way businesses and homeowners consume
-      energy. From our initial idea to the myriad of solutions we offer today,
-      every step we've taken has been in pursuit of a greener, brighter future
-      for all.
-    image:
-      image_url: /uploads/plant-in-hands-1.jpg
-      image_alt: Small plant in hands
-    decorative_image: 
-      enabled: true
-    button:
-      button_url:
-      button_text:
-      open_in_new_tab:
-    background_color: black
-    text_column_position: right
   - _bookshop_name: columns
-    heading: "Shaping a Sustainable Future By:"
+    heading: What We Do
     columns:
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/technology.svg
-          image_alt: 
-        heading: Empowering Through Technology
+          image_alt:
+        heading: Research
         body: >-
-          We harness the power of cutting-edge software to provide intuitive and
-          actionable insights, enabling businesses and homeowners to understand
-          and optimize their energy consumption effortlessly.
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea commodo consequat.
         text_align: start
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/sustainability.svg
           image_alt:
-        heading: Advocating for Sustainability
+        heading: Education
         body: >-
-          Beyond solutions, we champion the cause of sustainability, advocating
-          for responsible energy consumption and fostering a culture of
-          eco-conscious decision-making.
+          Ornare eu dignissim lectus netus adipiscing nisi leo. Ut id pretium
+          augue habitant sagittis pellentesque. Natoque erat auctor dignissim
+          laoreet accumsan mattis rutrum. Metus luctus commodo fermentum duis
+          pharetra consectetur; finibus nunc scelerisque. Tellus hac enim platea
+          sed nunc torquent ante. Amet consectetur tellus hac aptent penatibus
+          mauris ha
         text_align: start
       - _bookshop_name: icon-card
         image:
           image_url: /uploads/community.svg
           image_alt:
-        heading: Fostering Community Growth
+        heading: Support
         body: >-
-          We believe that collective change stems from individual action. Our
-          mission extends beyond software, as we engage, educate, and grow with
-          our community, driving forward towards a shared vision of a greener
-          world.
+          Tristique proin laoreet eros lobortis suscipit varius sagittis, proin
+          nullam? Nec suspendisse euismod neque sapien amet suspendisse
+          pharetra? Quisque per iaculis taciti posuere fermentum sapien lectus
+          cras. Phasellus nunc quis fusce libero; sapien curae sollicitudin.
+          Scelerisque dignissim volutpat ligula ullamcorper dapibus adipiscing
+          massa. Aliquet ridiculus magna dui commodo laoreet luctus facilisis
+          augue.
         text_align: start
     background_color:
     text_align: start
   - _bookshop_name: staff-feed
-    heading: Meet Our Sustainability Experts
+    heading: Our Organization
     body: >-
-      At Essentia, each member brings a unique blend of expertise, united by a
-      common goal: to revolutionize the world of sustainable energy. From our
-      pioneering co-founders to our innovative engineers and strategists, every
-      individual plays a crucial role in shaping our journey.
+      The National Farmers Foundation is governed and run by a seven-person
+      voluntary Board of Directors, and has one staff person. Directors are in
+      sympathy with the goals, objectives, and policies of the National Farmers
+      Union, and are all members or associate members of the NFU.
     background_color: white
   - _bookshop_name: numbers
     heading: Driving Sustainable Businesses Forward
