@@ -8,6 +8,10 @@ content:
       label: Headline
       type: text
       required: true
+    - name: content
+      label: Content
+      type: rich-text
+      required: false
   - name: authors
     label: Authors
     path: src/_data/authors.json
