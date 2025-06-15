@@ -12,6 +12,10 @@ content:
       label: Content
       type: rich-text
       required: false
+    - name: description
+      label: Description
+      type: rich-text
+      required: false
   - name: authors
     label: Authors
     path: src/_data/authors.json
